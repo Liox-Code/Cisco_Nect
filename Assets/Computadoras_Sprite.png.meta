@@ -1,0 +1,1114 @@
+fileFormatVersion: 2
+guid: 7f020fefbfaa85345bfa96487d839780
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Computadoras_Sprite_0
+    21300002: Computadoras_Sprite_1
+    21300004: Computadoras_Sprite_2
+    21300006: Computadoras_Sprite_3
+    21300008: Computadoras_Sprite_4
+    21300010: Computadoras_Sprite_5
+    21300012: Computadoras_Sprite_6
+    21300014: Computadoras_Sprite_7
+    21300016: Computadoras_Sprite_8
+    21300018: Computadoras_Sprite_9
+    21300020: Computadoras_Sprite_10
+    21300022: Computadoras_Sprite_11
+    21300024: Computadoras_Sprite_12
+    21300026: Computadoras_Sprite_13
+    21300028: Computadoras_Sprite_14
+    21300030: Computadoras_Sprite_15
+    21300032: Computadoras_Sprite_16
+    21300034: Computadoras_Sprite_17
+    21300036: Computadoras_Sprite_18
+    21300038: Computadoras_Sprite_19
+    21300040: Computadoras_Sprite_20
+    21300042: Computadoras_Sprite_21
+    21300044: Computadoras_Sprite_22
+    21300046: Computadoras_Sprite_23
+    21300048: Computadoras_Sprite_24
+    21300050: Computadoras_Sprite_25
+    21300052: Computadoras_Sprite_26
+    21300054: Computadoras_Sprite_27
+    21300056: Computadoras_Sprite_28
+    21300058: Computadoras_Sprite_29
+    21300060: Computadoras_Sprite_30
+    21300062: Computadoras_Sprite_31
+    21300064: Computadoras_Sprite_32
+    21300066: Computadoras_Sprite_33
+    21300068: Computadoras_Sprite_34
+    21300070: Computadoras_Sprite_35
+    21300072: Computadoras_Sprite_36
+    21300074: Computadoras_Sprite_37
+    21300076: Computadoras_Sprite_38
+    21300078: Computadoras_Sprite_39
+    21300080: Computadoras_Sprite_40
+    21300082: Computadoras_Sprite_41
+    21300084: Computadoras_Sprite_42
+    21300086: Computadoras_Sprite_43
+    21300088: Computadoras_Sprite_44
+    21300090: Computadoras_Sprite_45
+    21300092: Computadoras_Sprite_46
+    21300094: Computadoras_Sprite_47
+    21300096: Computadoras_Sprite_48
+    21300098: Computadoras_Sprite_49
+    21300100: Computadoras_Sprite_50
+    21300102: Computadoras_Sprite_51
+    21300104: Computadoras_Sprite_52
+    21300106: Computadoras_Sprite_53
+    21300108: Computadoras_Sprite_54
+    21300110: Computadoras_Sprite_55
+    21300112: Computadoras_Sprite_56
+    21300114: Computadoras_Sprite_57
+    21300116: Computadoras_Sprite_58
+    21300118: Computadoras_Sprite_59
+    21300120: Computadoras_Sprite_60
+    21300122: Computadoras_Sprite_61
+    21300124: Computadoras_Sprite_62
+    21300126: Computadoras_Sprite_63
+    21300128: Computadoras_Sprite_64
+    21300130: Computadoras_Sprite_65
+    21300132: Computadoras_Sprite_66
+    21300134: Computadoras_Sprite_67
+    21300136: Computadoras_Sprite_68
+    21300138: Computadoras_Sprite_69
+    21300140: Computadoras_Sprite_70
+    21300142: Computadoras_Sprite_71
+    21300144: Computadoras_Sprite_72
+    21300146: Computadoras_Sprite_73
+    21300148: Computadoras_Sprite_74
+    21300150: Computadoras_Sprite_75
+    21300152: Computadoras_Sprite_76
+    21300154: Computadoras_Sprite_77
+    21300156: Computadoras_Sprite_78
+    21300158: Computadoras_Sprite_79
+    21300160: Computadoras_Sprite_80
+    21300162: Computadoras_Sprite_81
+    21300164: Computadoras_Sprite_82
+    21300166: Computadoras_Sprite_83
+    21300168: Computadoras_Sprite_84
+    21300170: Computadoras_Sprite_85
+    21300172: Computadoras_Sprite_86
+    21300174: Computadoras_Sprite_87
+    21300176: Computadoras_Sprite_88
+    21300178: Computadoras_Sprite_89
+    21300180: Computadoras_Sprite_90
+    21300182: Computadoras_Sprite_91
+    21300184: Computadoras_Sprite_92
+    21300186: Computadoras_Sprite_93
+    21300188: Computadoras_Sprite_94
+    21300190: Computadoras_Sprite_95
+    21300192: Computadoras_Sprite_96
+    21300194: Computadoras_Sprite_97
+    21300196: Computadoras_Sprite_98
+    21300198: Computadoras_Sprite_99
+    21300200: Computadoras_Sprite_100
+    21300202: Computadoras_Sprite_101
+    21300204: Computadoras_Sprite_102
+    21300206: Computadoras_Sprite_103
+    21300208: Computadoras_Sprite_104
+    21300210: Computadoras_Sprite_105
+    21300212: Computadoras_Sprite_106
+    21300214: Computadoras_Sprite_107
+    21300216: Computadoras_Sprite_108
+    21300218: Computadoras_Sprite_109
+    21300220: Computadoras_Sprite_110
+    21300222: Computadoras_Sprite_111
+    21300224: Computadoras_Sprite_112
+    21300226: Computadoras_Sprite_113
+    21300228: Computadoras_Sprite_114
+    21300230: Computadoras_Sprite_115
+    21300232: Computadoras_Sprite_116
+    21300234: Computadoras_Sprite_117
+    21300236: Computadoras_Sprite_118
+    21300238: Computadoras_Sprite_119
+    21300240: Computadoras_Sprite_120
+    21300242: Computadoras_Sprite_121
+    21300244: Computadoras_Sprite_122
+    21300246: Computadoras_Sprite_123
+    21300248: Computadoras_Sprite_124
+    21300250: Computadoras_Sprite_125
+    21300252: Computadoras_Sprite_126
+    21300254: Computadoras_Sprite_127
+    21300256: Computadoras_Sprite_128
+    21300258: Computadoras_Sprite_129
+    21300260: Computadoras_Sprite_130
+    21300262: Computadoras_Sprite_131
+    21300264: Computadoras_Sprite_132
+    21300266: Computadoras_Sprite_133
+    21300268: Computadoras_Sprite_134
+    21300270: Computadoras_Sprite_135
+    21300272: Computadoras_Sprite_136
+    21300274: Computadoras_Sprite_137
+    21300276: Computadoras_Sprite_138
+    21300278: Computadoras_Sprite_139
+    21300280: Computadoras_Sprite_140
+    21300282: Computadoras_Sprite_141
+    21300284: Computadoras_Sprite_142
+    21300286: Computadoras_Sprite_143
+    21300288: Computadoras_Sprite_144
+    21300290: Computadoras_Sprite_145
+    21300292: Computadoras_Sprite_146
+    21300294: Computadoras_Sprite_147
+    21300296: Computadoras_Sprite_148
+    21300298: Computadoras_Sprite_149
+    21300300: Computadoras_Sprite_150
+    21300302: Computadoras_Sprite_151
+    21300304: Computadoras_Sprite_152
+    21300306: Computadoras_Sprite_153
+    21300308: Computadoras_Sprite_154
+    21300310: Computadoras_Sprite_155
+    21300312: Computadoras_Sprite_156
+    21300314: Computadoras_Sprite_157
+    21300316: Computadoras_Sprite_158
+    21300318: Computadoras_Sprite_159
+    21300320: Computadoras_Sprite_160
+    21300322: Computadoras_Sprite_161
+    21300324: Computadoras_Sprite_162
+    21300326: Computadoras_Sprite_163
+    21300328: Computadoras_Sprite_164
+    21300330: Computadoras_Sprite_165
+    21300332: Computadoras_Sprite_166
+    21300334: Computadoras_Sprite_167
+    21300336: Computadoras_Sprite_168
+    21300338: Computadoras_Sprite_169
+    21300340: Computadoras_Sprite_170
+    21300342: Computadoras_Sprite_171
+    21300344: Computadoras_Sprite_172
+    21300346: Computadoras_Sprite_173
+    21300348: Computadoras_Sprite_174
+    21300350: Computadoras_Sprite_175
+    21300352: Computadoras_Sprite_176
+    21300354: Computadoras_Sprite_177
+    21300356: Computadoras_Sprite_178
+    21300358: Computadoras_Sprite_179
+    21300360: Computadoras_Sprite_180
+    21300362: Computadoras_Sprite_181
+    21300364: Computadoras_Sprite_182
+    21300366: Computadoras_Sprite_183
+    21300368: Computadoras_Sprite_184
+    21300370: Computadoras_Sprite_185
+    21300372: Computadoras_Sprite_186
+    21300374: Computadoras_Sprite_187
+    21300376: Computadoras_Sprite_188
+    21300378: Computadoras_Sprite_189
+    21300380: Computadoras_Sprite_190
+    21300382: Computadoras_Sprite_191
+    21300384: Computadoras_Sprite_192
+    21300386: Computadoras_Sprite_193
+    21300388: Computadoras_Sprite_194
+    21300390: Computadoras_Sprite_195
+    21300392: Computadoras_Sprite_196
+    21300394: Computadoras_Sprite_197
+    21300396: Computadoras_Sprite_198
+    21300398: Computadoras_Sprite_199
+    21300400: Computadoras_Sprite_200
+    21300402: Computadoras_Sprite_201
+    21300404: Computadoras_Sprite_202
+    21300406: Computadoras_Sprite_203
+    21300408: Computadoras_Sprite_204
+    21300410: Computadoras_Sprite_205
+    21300412: Computadoras_Sprite_206
+    21300414: Computadoras_Sprite_207
+    21300416: Computadoras_Sprite_208
+    21300418: Computadoras_Sprite_209
+    21300420: Computadoras_Sprite_210
+    21300422: Computadoras_Sprite_211
+    21300424: Computadoras_Sprite_212
+    21300426: Computadoras_Sprite_213
+    21300428: Computadoras_Sprite_214
+    21300430: Computadoras_Sprite_215
+    21300432: Computadoras_Sprite_216
+    21300434: Computadoras_Sprite_217
+    21300436: Computadoras_Sprite_218
+    21300438: Computadoras_Sprite_219
+    21300440: Computadoras_Sprite_220
+    21300442: Computadoras_Sprite_221
+    21300444: Computadoras_Sprite_222
+    21300446: Computadoras_Sprite_223
+    21300448: Computadoras_Sprite_224
+    21300450: Computadoras_Sprite_225
+    21300452: Computadoras_Sprite_226
+    21300454: Computadoras_Sprite_227
+    21300456: Computadoras_Sprite_228
+    21300458: Computadoras_Sprite_229
+    21300460: Computadoras_Sprite_230
+    21300462: Computadoras_Sprite_231
+    21300464: Computadoras_Sprite_232
+    21300466: Computadoras_Sprite_233
+    21300468: Computadoras_Sprite_234
+    21300470: Computadoras_Sprite_235
+    21300472: Computadoras_Sprite_236
+    21300474: Computadoras_Sprite_237
+    21300476: Computadoras_Sprite_238
+    21300478: Computadoras_Sprite_239
+    21300480: Computadoras_Sprite_240
+    21300482: Computadoras_Sprite_241
+    21300484: Computadoras_Sprite_242
+    21300486: Computadoras_Sprite_243
+    21300488: Computadoras_Sprite_244
+    21300490: Computadoras_Sprite_245
+    21300492: Computadoras_Sprite_246
+    21300494: Computadoras_Sprite_247
+    21300496: Computadoras_Sprite_248
+    21300498: Computadoras_Sprite_249
+    21300500: Computadoras_Sprite_250
+    21300502: Computadoras_Sprite_251
+    21300504: Computadoras_Sprite_252
+    21300506: Computadoras_Sprite_253
+    21300508: Computadoras_Sprite_254
+    21300510: Computadoras_Sprite_255
+    21300512: Computadoras_Sprite_256
+    21300514: Computadoras_Sprite_257
+    21300516: Computadoras_Sprite_258
+    21300518: Computadoras_Sprite_259
+    21300520: Computadoras_Sprite_260
+    21300522: Computadoras_Sprite_261
+    21300524: Computadoras_Sprite_262
+    21300526: Computadoras_Sprite_263
+    21300528: Computadoras_Sprite_264
+    21300530: Computadoras_Sprite_265
+    21300532: Computadoras_Sprite_266
+    21300534: Computadoras_Sprite_267
+    21300536: Computadoras_Sprite_268
+    21300538: Computadoras_Sprite_269
+    21300540: Computadoras_Sprite_270
+    21300542: Computadoras_Sprite_271
+    21300544: Computadoras_Sprite_272
+    21300546: Computadoras_Sprite_273
+    21300548: Computadoras_Sprite_274
+    21300550: Computadoras_Sprite_275
+    21300552: Computadoras_Sprite_276
+    21300554: Computadoras_Sprite_277
+    21300556: Computadoras_Sprite_278
+    21300558: Computadoras_Sprite_279
+    21300560: Computadoras_Sprite_280
+    21300562: Computadoras_Sprite_281
+    21300564: Computadoras_Sprite_282
+    21300566: Computadoras_Sprite_283
+    21300568: Computadoras_Sprite_284
+    21300570: Computadoras_Sprite_285
+    21300572: Computadoras_Sprite_286
+    21300574: Computadoras_Sprite_287
+    21300576: Computadoras_Sprite_288
+    21300578: Computadoras_Sprite_289
+    21300580: Computadoras_Sprite_290
+    21300582: Computadoras_Sprite_291
+    21300584: Computadoras_Sprite_292
+    21300586: Computadoras_Sprite_293
+    21300588: Computadoras_Sprite_294
+    21300590: Computadoras_Sprite_295
+    21300592: Computadoras_Sprite_296
+    21300594: Computadoras_Sprite_297
+    21300596: Computadoras_Sprite_298
+    21300598: Computadoras_Sprite_299
+    21300600: Computadoras_Sprite_300
+    21300602: Computadoras_Sprite_301
+    21300604: Computadoras_Sprite_302
+    21300606: Computadoras_Sprite_303
+    21300608: Computadoras_Sprite_304
+    21300610: Computadoras_Sprite_305
+    21300612: Computadoras_Sprite_306
+    21300614: Computadoras_Sprite_307
+    21300616: Computadoras_Sprite_308
+    21300618: Computadoras_Sprite_309
+    21300620: Computadoras_Sprite_310
+    21300622: Computadoras_Sprite_311
+    21300624: Computadoras_Sprite_312
+    21300626: Computadoras_Sprite_313
+    21300628: Computadoras_Sprite_314
+    21300630: Computadoras_Sprite_315
+    21300632: Computadoras_Sprite_316
+    21300634: Computadoras_Sprite_317
+    21300636: Computadoras_Sprite_318
+    21300638: Computadoras_Sprite_319
+    21300640: Computadoras_Sprite_320
+    21300642: Computadoras_Sprite_321
+    21300644: Computadoras_Sprite_322
+    21300646: Computadoras_Sprite_323
+    21300648: Computadoras_Sprite_324
+    21300650: Computadoras_Sprite_325
+    21300652: Computadoras_Sprite_326
+    21300654: Computadoras_Sprite_327
+    21300656: Computadoras_Sprite_328
+    21300658: Computadoras_Sprite_329
+    21300660: Computadoras_Sprite_330
+    21300662: Computadoras_Sprite_331
+    21300664: Computadoras_Sprite_332
+    21300666: Computadoras_Sprite_333
+    21300668: Computadoras_Sprite_334
+    21300670: Computadoras_Sprite_335
+    21300672: Computadoras_Sprite_336
+    21300674: Computadoras_Sprite_337
+    21300676: Computadoras_Sprite_338
+    21300678: Computadoras_Sprite_339
+    21300680: Computadoras_Sprite_340
+    21300682: Computadoras_Sprite_341
+    21300684: Computadoras_Sprite_342
+    21300686: Computadoras_Sprite_343
+    21300688: Computadoras_Sprite_344
+    21300690: Computadoras_Sprite_345
+    21300692: Computadoras_Sprite_346
+    21300694: Computadoras_Sprite_347
+    21300696: Computadoras_Sprite_348
+    21300698: Computadoras_Sprite_349
+    21300700: Computadoras_Sprite_350
+    21300702: Computadoras_Sprite_351
+    21300704: Computadoras_Sprite_352
+    21300706: Computadoras_Sprite_353
+    21300708: Computadoras_Sprite_354
+    21300710: Computadoras_Sprite_355
+    21300712: Computadoras_Sprite_356
+    21300714: Computadoras_Sprite_357
+    21300716: Computadoras_Sprite_358
+    21300718: Computadoras_Sprite_359
+    21300720: Computadoras_Sprite_360
+    21300722: Computadoras_Sprite_361
+    21300724: Computadoras_Sprite_362
+    21300726: Computadoras_Sprite_363
+    21300728: Computadoras_Sprite_364
+    21300730: Computadoras_Sprite_365
+    21300732: Computadoras_Sprite_366
+    21300734: Computadoras_Sprite_367
+    21300736: Computadoras_Sprite_368
+    21300738: Computadoras_Sprite_369
+    21300740: Computadoras_Sprite_370
+    21300742: Computadoras_Sprite_371
+    21300744: Computadoras_Sprite_372
+    21300746: Computadoras_Sprite_373
+    21300748: Computadoras_Sprite_374
+    21300750: Computadoras_Sprite_375
+    21300752: Computadoras_Sprite_376
+    21300754: Computadoras_Sprite_377
+    21300756: Computadoras_Sprite_378
+    21300758: Computadoras_Sprite_379
+    21300760: Computadoras_Sprite_380
+    21300762: Computadoras_Sprite_381
+    21300764: Computadoras_Sprite_382
+    21300766: Computadoras_Sprite_383
+    21300768: Computadoras_Sprite_384
+    21300770: Computadoras_Sprite_385
+    21300772: Computadoras_Sprite_386
+    21300774: Computadoras_Sprite_387
+    21300776: Computadoras_Sprite_388
+    21300778: Computadoras_Sprite_389
+    21300780: Computadoras_Sprite_390
+    21300782: Computadoras_Sprite_391
+    21300784: Computadoras_Sprite_392
+    21300786: Computadoras_Sprite_393
+    21300788: Computadoras_Sprite_394
+    21300790: Computadoras_Sprite_395
+    21300792: Computadoras_Sprite_396
+    21300794: Computadoras_Sprite_397
+    21300796: Computadoras_Sprite_398
+    21300798: Computadoras_Sprite_399
+    21300800: Computadoras_Sprite_400
+    21300802: Computadoras_Sprite_401
+    21300804: Computadoras_Sprite_402
+    21300806: Computadoras_Sprite_403
+    21300808: Computadoras_Sprite_404
+    21300810: Computadoras_Sprite_405
+    21300812: Computadoras_Sprite_406
+    21300814: Computadoras_Sprite_407
+    21300816: Computadoras_Sprite_408
+    21300818: Computadoras_Sprite_409
+    21300820: Computadoras_Sprite_410
+    21300822: Computadoras_Sprite_411
+    21300824: Computadoras_Sprite_412
+    21300826: Computadoras_Sprite_413
+    21300828: Computadoras_Sprite_414
+    21300830: Computadoras_Sprite_415
+    21300832: Computadoras_Sprite_416
+    21300834: Computadoras_Sprite_417
+    21300836: Computadoras_Sprite_418
+    21300838: Computadoras_Sprite_419
+    21300840: Computadoras_Sprite_420
+    21300842: Computadoras_Sprite_421
+    21300844: Computadoras_Sprite_422
+    21300846: Computadoras_Sprite_423
+    21300848: Computadoras_Sprite_424
+    21300850: Computadoras_Sprite_425
+    21300852: Computadoras_Sprite_426
+    21300854: Computadoras_Sprite_427
+    21300856: Computadoras_Sprite_428
+    21300858: Computadoras_Sprite_429
+    21300860: Computadoras_Sprite_430
+    21300862: Computadoras_Sprite_431
+    21300864: Computadoras_Sprite_432
+    21300866: Computadoras_Sprite_433
+    21300868: Computadoras_Sprite_434
+    21300870: Computadoras_Sprite_435
+    21300872: Computadoras_Sprite_436
+    21300874: Computadoras_Sprite_437
+    21300876: Computadoras_Sprite_438
+    21300878: Computadoras_Sprite_439
+    21300880: Computadoras_Sprite_440
+    21300882: Computadoras_Sprite_441
+    21300884: Computadoras_Sprite_442
+    21300886: Computadoras_Sprite_443
+    21300888: Computadoras_Sprite_444
+    21300890: Computadoras_Sprite_445
+    21300892: Computadoras_Sprite_446
+    21300894: Computadoras_Sprite_447
+    21300896: Computadoras_Sprite_448
+    21300898: Computadoras_Sprite_449
+    21300900: Computadoras_Sprite_450
+    21300902: Computadoras_Sprite_451
+    21300904: Computadoras_Sprite_452
+    21300906: Computadoras_Sprite_453
+    21300908: Computadoras_Sprite_454
+    21300910: Computadoras_Sprite_455
+    21300912: Computadoras_Sprite_456
+    21300914: Computadoras_Sprite_457
+    21300916: Computadoras_Sprite_458
+    21300918: Computadoras_Sprite_459
+    21300920: Computadoras_Sprite_460
+    21300922: Computadoras_Sprite_461
+    21300924: Computadoras_Sprite_462
+    21300926: Computadoras_Sprite_463
+    21300928: Computadoras_Sprite_464
+    21300930: Computadoras_Sprite_465
+    21300932: Computadoras_Sprite_466
+    21300934: Computadoras_Sprite_467
+    21300936: Computadoras_Sprite_468
+    21300938: Computadoras_Sprite_469
+    21300940: Computadoras_Sprite_470
+    21300942: Computadoras_Sprite_471
+    21300944: Computadoras_Sprite_472
+    21300946: Computadoras_Sprite_473
+    21300948: Computadoras_Sprite_474
+    21300950: Computadoras_Sprite_475
+    21300952: Computadoras_Sprite_476
+    21300954: Computadoras_Sprite_477
+    21300956: Computadoras_Sprite_478
+    21300958: Computadoras_Sprite_479
+    21300960: Computadoras_Sprite_480
+    21300962: Computadoras_Sprite_481
+    21300964: Computadoras_Sprite_482
+    21300966: Computadoras_Sprite_483
+    21300968: Computadoras_Sprite_484
+    21300970: Computadoras_Sprite_485
+    21300972: Computadoras_Sprite_486
+    21300974: Computadoras_Sprite_487
+    21300976: Computadoras_Sprite_488
+    21300978: Computadoras_Sprite_489
+    21300980: Computadoras_Sprite_490
+    21300982: Computadoras_Sprite_491
+    21300984: Computadoras_Sprite_492
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Computadoras_Sprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 336
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6904e7487e3e5d42b03684510a7e965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Computadoras_Sprite_1
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 735
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21369804eb3786d488b56f5667f5df2b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Computadoras_Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 684
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3037b91af8912442b4fbb4d25e8b70e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Computadoras_Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 672
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca670a8c107cbaf4ab2872c5d5e4bc60
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Computadoras_Sprite_4
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 672
+        width: 96
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968c613db6bcc5d479e835c73c86b09b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Computadoras_Sprite_5
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 672
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed70e6186c76cd42acb85b3387c5a0a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Computadoras_Sprite_6
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 678
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415ec0aa34596f847933ecf27d97a944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Computadoras_Sprite_7
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 636
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c2b53d595183c4298f573d9e7fa549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Computadoras_Sprite_8
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 600
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f119e32303b6b47a68ee894c2b4e46
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Computadoras_Sprite_9
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 600
+        width: 96
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404e87aeb2d75e643a088c220a571186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Computadoras_Sprite_10
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 600
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aecdaa8987b0979459a7ac9a9231a302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Computadoras_Sprite_11
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 630
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d97464aca2ae6347952059ae404e0a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Computadoras_Sprite_12
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 576
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1511252ac59198499ad8c0ab1ac20dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Computadoras_Sprite_13
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 585
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002e304356f64ba42a5dbd059b782364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Computadoras_Sprite_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 768
+        height: 396
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8eff448b1a818a4985b00103c35c906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Computadoras_Sprite_15
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 483
+        width: 42
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953b78d864fd316489fe8e4c00fd9c2f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Computadoras_Sprite_16
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 459
+        width: 87
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e85a5811f019cc4ab497a22c937dad6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Computadoras_Sprite_17
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 489
+        width: 45
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00610ec95ece9b148bde7ba37e8480e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Computadoras_Sprite_18
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 489
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d451decb5913ca54ab9dc38bdc7981fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Computadoras_Sprite_19
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 489
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c152c90ba7e61344c9e2d9cd67aa4804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Computadoras_Sprite_20
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 531
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549da34795f27234db6906853e64f121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Computadoras_Sprite_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b33e8ab6c6a4b459b875761f07f1f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Computadoras_Sprite_22
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 432
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc01392f4f24b4445bb0729a39c864e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Computadoras_Sprite_23
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 96
+        width: 336
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e751042fe5adbd41ae15ced2444d41b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Computadoras_Sprite_24
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 84
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f965d9562034349912ed3822629cf5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b667d47f5dbbdab47acb8f0e7ea4f4ff
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

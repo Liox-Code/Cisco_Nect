@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Pregunta
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Obstaculo
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Terreno_Juego
+    uniqueID: 2698717033
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Empleado
+    uniqueID: 3851185033
+    locked: 0
+  - name: Personaje_Jugador
+    uniqueID: 361899029
+    locked: 0
+  - name: Img_Signos
+    uniqueID: 3277808813
+    locked: 0
